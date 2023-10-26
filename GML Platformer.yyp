@@ -3,10 +3,10 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":15,},
-    {"id":{"name":"spr_invisiblewall","path":"sprites/spr_invisiblewall/spr_invisiblewall.yy",},"order":16,},
-    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":17,},
-    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":18,},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":15,},
+    {"id":{"name":"sInvisiblewall","path":"sprites/sInvisiblewall/sInvisiblewall.yy",},"order":16,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":17,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":18,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
